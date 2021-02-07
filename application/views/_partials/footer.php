@@ -28,7 +28,7 @@
     </div>
     <div class="footer-copyright">
         <div class="container">
-            Wendy &copy;2021 Powered by <a class="brown-text text-lighten-3" href="http://materializecss.com">Materialize</a>
+            Borneo Education Foundation &copy;2021 Powered by <a class="brown-text text-lighten-3" href="http://materializecss.com">Materialize</a>
         </div>
     </div>
 </footer>
