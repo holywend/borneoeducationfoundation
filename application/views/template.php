@@ -11,6 +11,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
     <?php $this->load->view('_partials/navbar');?>
     <?php $this->load->view('_partials/parallax');?>
+    <?php $this->load->view('_partials/child_profile');?>
 
     <div id="content-wrapper" class="container">
         <div id="section">
